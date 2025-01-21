@@ -1,5 +1,5 @@
 ---
-name: "FIRST LAST"
+name: "Kevin Huai"
 slack_handle: "@jumpsushi"
 github_handle: "@jumpsushi"
 ---
